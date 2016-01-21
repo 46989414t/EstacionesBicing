@@ -1,0 +1,13 @@
+{
+"syntaxVersion": 3,
+"projectPackageId": "com.estacionesbicing.estacionesbicing.app",
+"authority": "com.estacionesbicing.estacionesbicing.app.provider",
+"providerJavaPackage": "com.estacionesbicing.estacionesbicing.app.provider",
+"providerClassName": "ExampleProvider",
+"sqliteOpenHelperClassName": "SQLiteOpenHelper",
+"sqliteOpenHelperCallbacksClassName": "SQLiteOpenHelperCallbacks",
+"databaseFileName": "estaciones.db",
+"databaseVersion": 1,
+"enableForeignKeys": true,
+"useAnnotations": true
+}

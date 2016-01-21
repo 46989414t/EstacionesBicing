@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EstacionesBicing.iml" filepath="$PROJECT_DIR$/EstacionesBicing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android_contentprovider_generator-1.9.3-bundle/android_contentprovider_generator-1.9.3-bundle.iml" filepath="$PROJECT_DIR$/android_contentprovider_generator-1.9.3-bundle/android_contentprovider_generator-1.9.3-bundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

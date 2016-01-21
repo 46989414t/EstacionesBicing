@@ -1,1 +1,1 @@
-include ':app', ':android_contentprovider_generator-1.9.3-bundle'
+include ':app'

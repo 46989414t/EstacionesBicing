@@ -10,7 +10,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/android_contentprovider_generator-1.9.3-bundle" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
