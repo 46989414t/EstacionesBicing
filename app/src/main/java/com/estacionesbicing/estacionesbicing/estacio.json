@@ -1,0 +1,18 @@
+{
+  "stations": [
+    {
+      "id":"1",
+      "type":"BIKE",
+      "latitude":"41.397952",
+      "longitude":"2.180042",
+      "streetName":"Gran Via Corts Catalanes",
+      "streetNumber":"760",
+      "altitude":"21",
+      "slots":"9",
+      "bikes":"15",
+      "nearbyStations":"24, 369, 387, 426",
+      "status":"OPN"
+    }
+  ],
+  "updateTime":1453312989
+}
